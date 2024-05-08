@@ -1,6 +1,8 @@
 ### ayy waddup :D
 
 - 🇧🇷/🇺🇸 (🇯🇵 in progress)
+
+- Artist and aspiring programmer and musician;
   
 - Doing the [Alura](https://www.alura.com.br) programming course;
   

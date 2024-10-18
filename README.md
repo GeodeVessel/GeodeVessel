@@ -6,8 +6,8 @@
   
 - Doing the [Alura](https://www.alura.com.br) programming course;
   
-- JavaScript main;
+- Practicing JavaScript, HTML, CSS and GameMaker;
 
-- Just organizing stuff, generally.
+- Just organizing stuff, really.
 
 ![](https://media1.tenor.com/m/RUUrMJs9T1cAAAAC/hollow-knight.gif)
